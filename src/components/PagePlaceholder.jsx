@@ -7,7 +7,7 @@ function PagePlaceholder({ title }) {
       </h1>
 
       <p className="mt-2 text-gray-500">
-        Welcome to SplitSync. This page is under development.
+        Welcome to SplitSync.
       </p>
     </div>
   )
