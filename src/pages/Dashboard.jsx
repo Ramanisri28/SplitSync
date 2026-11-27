@@ -1,8 +1,7 @@
-
-import PagePlaceholder from '../components/PagePlaceholder'
-
 function Dashboard() {
-  return <PagePlaceholder title="Dashboard" />
+  return (
+    <div>Dashboard</div>
+  )
 }
 
 export default Dashboard

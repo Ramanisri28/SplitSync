@@ -1,8 +1,7 @@
-
-import PagePlaceholder from '../components/PagePlaceholder'
-
 function Expenses() {
-  return <PagePlaceholder title="Expenses" />
+  return (
+    <div>Expenses</div>
+  )
 }
 
 export default Expenses

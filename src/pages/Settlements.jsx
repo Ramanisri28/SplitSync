@@ -1,8 +1,6 @@
-
-import PagePlaceholder from '../components/PagePlaceholder'
-
 function Settlements() {
-  return <PagePlaceholder title="Settlements" />
+  return (
+    <div>Settlements</div>
+  )
 }
-
 export default Settlements

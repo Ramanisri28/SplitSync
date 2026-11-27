@@ -1,8 +1,7 @@
-
-import PagePlaceholder from '../components/PagePlaceholder'
-
 function AddExpense() {
-  return <PagePlaceholder title="Add Expense" />
+  return (
+    <div>Add Expense</div>
+  )
 }
 
 export default AddExpense

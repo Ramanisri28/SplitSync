@@ -1,8 +1,7 @@
-
-import PagePlaceholder from '../components/PagePlaceholder'
-
 function Balances() {
-  return <PagePlaceholder title="Balances" />
+  return (
+    <div>Balances</div>
+  )
 }
 
 export default Balances

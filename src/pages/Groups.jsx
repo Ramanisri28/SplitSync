@@ -1,8 +1,6 @@
-
-import PagePlaceholder from '../components/PagePlaceholder'
-
 function Groups() {
-  return <PagePlaceholder title="My Groups" />
+  return (
+    <div>My Groups</div>
+  )
 }
-
 export default Groups
