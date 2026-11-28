@@ -21,7 +21,7 @@ function Register() {
             <form onSubmit={handleSubmit(onSubmit)} className="bg-white p-8 rounded-2xl shadow-lg w-full max-w-md" >
             <h1 className="text-3xl font-bold text-indigo-600 text-center mb-6">SplitSync</h1>
             <h2 className="text-2xl font-semibold text-slate-800 text-center mb-2">Create Account</h2>
-            <p className="text-slate-500 text-sm text-center mb-8">Start sharing expenses with your friends</p>
+            <p className="text-slate-500 text-sm text-center mb-8">Start sharing expenses with your friends.</p>
             <label className="block text-sm font-medium text-slate-700 mb-2">Name</label>
             <input type="text" placeholder="Enter your name:" {...register("name")}
               className="w-full border border-slate-300 p-3 rounded-lg text-sm outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"/>
